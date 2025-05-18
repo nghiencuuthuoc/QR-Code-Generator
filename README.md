@@ -3,6 +3,7 @@
 A simple Tkinter-based GUI application to generate QR codes from URLs with a beautiful header and clipboard support.
 
 ![screenshot](assets/screenshot.png) <!-- optional -->
+
 ![screenshot](assets/screenshot1.png)
 ---
 

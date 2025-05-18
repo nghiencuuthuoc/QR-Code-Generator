@@ -57,6 +57,4 @@ MIT License. Created by [Nghiên Cứu Thuốc](https://www.nghiencuuthuoc.com/)
 🌐 Website: [https://www.nghiencuuthuoc.com](https://www.nghiencuuthuoc.com)
 💬 Zalo/WhatsApp: +84888999311
 
-````
-
 ---

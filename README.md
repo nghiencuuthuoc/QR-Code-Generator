@@ -60,12 +60,3 @@ MIT License. Created by [Nghiên Cứu Thuốc](https://www.nghiencuuthuoc.com/)
 ````
 
 ---
-
-### ✅ `requirements.txt`
-```txt
-streamlit
-qrcode[pil]
-pillow
-````
-
----

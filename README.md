@@ -5,9 +5,6 @@
 
 ---
 
-### ✅ `README.md`
-
-````markdown
 # 🧠 QR Code Generator - PharmApp
 
 A simple and beautiful QR Code Generator app built with [Streamlit](https://streamlit.io/) for researchers, businesses, and health professionals.  
